@@ -1,6 +1,6 @@
 <script setup>
 const checkout = () => {
-	throw new Error('Checkout is not yet implemented');
+	throw new Error('My code is complete');
 };
 </script>
 
